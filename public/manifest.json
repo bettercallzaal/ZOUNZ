@@ -1,0 +1,9 @@
+{
+  "name": "ZAOUNZ",
+  "description": "Create AI music, discover hidden gems, mint NFTs, and trade music trends",
+  "icon": "https://zaounz.xyz/icon.png",
+  "homeUrl": "https://zaounz.xyz",
+  "splashImageUrl": "https://zaounz.xyz/splash.png",
+  "splashBackgroundColor": "#0F0F1A",
+  "webhookUrl": "https://zaounz.xyz/api/webhook"
+}
